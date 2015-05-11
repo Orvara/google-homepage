@@ -1,0 +1,121 @@
+body {
+	font-family: arial, sans-serif;
+	font-size: rgb(34, 34, 34);
+}
+.navbar ul li a{
+	display: block;
+	width: 40px;
+	height: 40px;
+	font-size: 11px;
+	text-align: center;
+    display: table-cell;
+	vertical-align: middle;
+
+}
+
+.navbar li {
+	float: right;
+}
+
+}
+img.myndir {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.main {
+	position: absolute;
+	margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    top: 120px;
+    font-size: 11px;
+}
+img.google {
+	width: 200px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+.navbar ul{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    right: 10px;
+}
+
+.main form{
+	margin-top: 20px;
+	width: 200px;
+}
+
+#searchbox {
+	width: 200px;
+}
+
+button.b1 {
+	font-size: 10px;
+}
+.main button {
+	margin-left: auto;
+	margin-right: auto;
+}
+.main div{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	text-align:center;
+}
+#cent-text{
+	display: block;
+	font-size: 11px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-left: auto;
+	width: 100%;
+}
+
+
+.footer {
+	background: #f2f2f2;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	height: 30px;
+}
+.footer ul {
+	text-align: center;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footer ul a {
+	margin-top: 10px;
+	display: block;
+    width: 60px;
+	font-size: 10px;
+	color: black;
+}
+.f-left {
+	float:left;
+	margin-left: 5px;
+}
+.f-right {
+	float:right;
+	margin-right: 10px;
+}
+#bigger {
+	width: 80px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
